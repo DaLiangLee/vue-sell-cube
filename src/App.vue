@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <cube-button>Cube Button</cube-button>
+    <cube-button>Cube Button !</cube-button>
   </div>
 </template>
 
